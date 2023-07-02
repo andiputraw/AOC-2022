@@ -3,7 +3,7 @@
 #include <string.h>
 
 #define BUFFER_MAX 1024
-#define INPUT "./sample.txt"
+#define INPUT "./input.txt"
 
 int total_calory(int *top_3_calory)
 {

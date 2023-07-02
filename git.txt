@@ -1,0 +1,18 @@
+# Git tutorial super simplified
+
+0. Tulisan ini berekspetasi kamu sudah mengeri cara menggunakan command line. paling minimal command `cd`
+
+1. buka command line. 
+
+2. arahkan ke folder yang ingin dibuat projeknya disitu.
+
+3. tuliskan `git init`
+
+4.tambahkan folder bebas. bisa file.txt atau macam macam lainnya
+
+5. jika sudah, gunakan command `git add` untuk menambahkan file tersebut ke dalam tracking nya git
+
+6. `git commit` untuk "mengcommit" ke git 
+(git commit itu, artinya kayak. aku bikin folder versi 1. nanti bakal ada versi 2. nah commit itu ya folder versi 1, folder versi 2)
+
+7. ulangi langkah 4 - 6
